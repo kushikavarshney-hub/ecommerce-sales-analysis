@@ -1,8 +1,8 @@
-\# E-commerce Sales Analysis using MySQL
+# E-commerce Sales Analysis using MySQL
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,69 +10,69 @@ This project analyzes e-commerce data using MySQL to explore customer activity, 
 
 
 
-\## Database Tables
+## Database Tables
 
 
 
-\- "customers" — Customer information
+- "customers" — Customer information
 
-\- "orders" — Order details and recorded amounts
+- "orders" — Order details and recorded amounts
 
-\- "order\_items" — Products and quantities in each order
+- "order\_items" — Products and quantities in each order
 
-\- "products" — Product names, prices, and categories
+- "products" — Product names, prices, and categories
 
-\- "categories" — Product category information
-
-
-
-\## Key Findings
+- "categories" — Product category information
 
 
 
-\- Total customers: 9
-
-\- Total orders: 7
-
-\- Total sales recorded in the orders table: ₹135,700
-
-\- Top-selling product by quantity: Mouse (3 units)
-
-\- Electronics category sales: ₹122,000
-
-\- Accessories category sales: ₹6,100
-
-\- Audio category sales: ₹3,500
+## Key Findings
 
 
 
-\## SQL Concepts Used
+- Total customers: 9
+
+- Total orders: 7
+
+- Total sales recorded in the orders table: ₹135,700
+
+- Top-selling product by quantity: Mouse (3 units)
+
+- Electronics category sales: ₹122,000
+
+- Accessories category sales: ₹6,100
+
+- Audio category sales: ₹3,500
 
 
 
-\- SELECT and aggregate functions
-
-\- SUM and COUNT
-
-\- INNER JOIN
-
-\- GROUP BY and ORDER BY
-
-\- LIMIT
+## SQL Concepts Used
 
 
 
-\## Tools
+- SELECT and aggregate functions
+
+- SUM and COUNT
+
+- INNER JOIN
+
+- GROUP BY and ORDER BY
+
+- LIMIT
 
 
 
-\- MySQL
-
-\- MySQL Workbench
+## Tools
 
 
 
-\## Project Goal
+- MySQL
+
+- MySQL Workbench
+
+
+
+## Project Goal
 
 
 
